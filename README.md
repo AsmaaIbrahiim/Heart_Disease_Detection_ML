@@ -4,5 +4,6 @@ We then tried different machine learning methods:
 1- Logestic Regression
 2- KNN
 3- Random Forest
-4- SVM
+4- SVM.
+
 Due to the the relatively small size of data, we depended on cross validation in addition to grid search to get the best performance.
