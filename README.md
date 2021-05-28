@@ -11,4 +11,4 @@ We then tried different machine learning methods:
 
 4- SVM.
 
-Due to the the relatively small size of data, we depended on cross validation in addition to grid search to get the best performance.
+Due to the the relatively small size of data, we depended on cross validation in addition to get a hint of the acceptable parameter to use grid search to get the best performance.
